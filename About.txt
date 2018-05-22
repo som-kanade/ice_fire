@@ -1,0 +1,6 @@
+This is the Angular which has details of books/characters/houses from the API https://anapioficeandfire.com/api
+
+which has filter options where in you can select books/houses/characters/houses
+and you can use search option as well
+
+when clicked on details individual details about that particular item can be found 
