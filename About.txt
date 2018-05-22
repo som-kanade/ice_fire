@@ -4,3 +4,5 @@ which has filter options where in you can select books/houses/characters/houses
 and you can use search option as well
 
 when clicked on details individual details about that particular item can be found 
+
+link to my angular app --> https://som-kanade.github.io/ice_fire/
